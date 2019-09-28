@@ -1,0 +1,6 @@
+Credentials cache: API:1460
+        Principal: ysalihi@1337.MA
+
+  Issued                Expires               Principal
+Aug 27 11:10:20 2018  Aug 27 21:10:19 2018  krbtgt/1337.MA@1337.MA
+Aug 27 18:09:20 2018  Aug 27 21:10:19 2018  host/vogsphere.1337.ma@1337.MA
